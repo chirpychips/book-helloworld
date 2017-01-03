@@ -2,4 +2,4 @@ HTTP_PROXY=http://192.168.56.1:3128/
 HTTPS_PROXY=https://192.168.56.1:3128/
 HTTP_PROXY_HOST=192.168.56.1
 HTTP_PROXY_PORT=3128
-MAVEN_ARGS_APPEND=" -s book-helloworld/configuration/settings.xml"
+MAVEN_ARGS_APPEND=" -U -s book-helloworld/configuration/settings.xml"
