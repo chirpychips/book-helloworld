@@ -1,1 +1,1 @@
-MAVEN_ARGS="package -Popenshift -sconfiguration/settings.xml"
+MAVEN_ARGS=package -Popenshift -sconfiguration/settings.xml
